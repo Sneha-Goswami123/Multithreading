@@ -1,4 +1,3 @@
-# Sneha (102303723)
 
 # Multi-Threading Matrix Multiplication
 
